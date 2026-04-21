@@ -19,7 +19,7 @@ This project predicts house prices using Machine Learning (Random Forest).
 ## Model Performance
 - R2 Score: ~0.80+
 - MAE: Low error
-- 
+  
 ## Run Locally
 ```bash
 pip install -r requirements.txt
